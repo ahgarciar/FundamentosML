@@ -1,0 +1,26 @@
+Nombre	Apellido Paterno	Apellido Materno	Edad	Genero	Carrera	Nacionalidad	Peso	Altura
+cecilia	jerez	sanchez	19	f	icdia	mexicana	1.47	1.56
+Adrian	Iba–ez	Delgado	20	m	icdia	mexicana	63	1.71
+Jose	De Los Reyes	Morejon	19	m	icdia	mexicana	85	1.95
+Karla 	De La Rosa 	Rodriguez	18	f	icdia	mexicana	60	1.65
+Jesus	Arevalo	Gonzalez	19	m	icdia	espa–ol	68	1.71
+Aldair	Castillo	S‡nchez	19	m	icdia	mexicana	80	1.75
+Angel	Meza	Reyes	18	m	icdia	mexicana	80	1.8
+Milka	San Martin	Martinez	19	f	icdia	mexicana	50	1.55
+Marco	Ameca	Alarcon	18	m	icdia	mexicana	75	1.74
+Griselda	Luna	Garc’a	19	f	icdia	mexicana	56	1.59
+Alan	Arana	Zu–iga	19	m	icdia	cabo verde	80	1.8
+Luis Fernando	Del Angel 	Garcia	18	m	icdio	mexicana	65	1.72
+Oscar Alfredo 	Perez	Lara	19	m	icdia	mexicana	64	1.79
+Marco Samuel	Ponce	Ramirez	19	m	icidia	mexicana	94	1.84
+Sergio Sebastian	Nore–a	Gonzalez	23	m	icdia	mexicana	100	1.69
+Duili Alejandro	Hernandez 	Gutierrez	20	m	icdia	mexicana	100	1.75
+Juan Fernando 	L—pez 	Hern‡ndez	20	m	icdia	mexicana	75	1.71
+Ethan Eliel	Vega	Gonzalez	19	m	icdia	mexicana 	75	1.78
+Luis Gerardo	Rodriguez	Castillo	21	m	icdia	mexicana	100	1.86
+Juan Carlos	MŽndez	G—mez	18	m	icdia	mexicana	94	1.62
+Vicente Eduardo	Hernandez 	De la rosa	19	m	icdia	mexicana	100	1.67
+Juan Carlos	Banda	Hernandez	19	m	icdia	mexicana	80	1.7
+Patricio David 	Tamez	Lince	19	m	negocios	mexicana	83.4	1.07
+Gianncarlo	Martinez	s/a	19	m	icdia	americana	106	1.82
+Francisco Rafael	Gonzalez	Garza	19	m	icidia	mexicana	58	1.83
